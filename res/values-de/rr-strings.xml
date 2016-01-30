@@ -896,9 +896,9 @@
     <string name="shortcut_action_help_pie_second_layer_delete_last_entry">Removing every %1$s in the list will disable the second pie layer entirely.</string>
 
     <!-- Superuser indicator on status bar -->
-    <string name="su_indicator">Superuser indicator</string>
-    <string name="su_indicator_summary_on">Superuser indicator is visible when a session is active</string>
-    <string name="su_indicator_summary_off">Toggle to show superuser indicator when a session is active.Only For CM inbuilt Root</string>
+    <string name="su_indicator">SuperUser-Anzeige</string>
+    <string name="su_indicator_summary_on">SuperUser-Anzeige ist bei einer aktiven Sitzung sichtbar</string>
+    <string name="su_indicator_summary_off">Verhindert die SuperUser-Anzeige bei einer aktiven Sitzung. Nur für CM-eigenes Root</string>
 
      <!-- App sidebar -->
      <string name="app_sidebar_title">App Sidebar</string>
@@ -930,45 +930,45 @@
      <string name="trigger_bottom_title">Trigger height</string>
      <string name="trigger_bottom_summary">Adjust the height of the trigger area</string>
 
-     <string name="rr_misc_title">Miscellaneous</string>
-     <string name="rr_systemuituner">System UI tuner</string>
-   <string name="enable_multi_window_summary">Multiple activities on screen at the same time.</string>
-    <string name="warning_multi_window_text">WARNING: This is a highly experimental feature that allows multiple activities on-screen at the same time through the Recent apps UI. Some apps may crash or not function correctly when used with this feature.</string>
+     <string name="rr_misc_title">Verschiedenes</string>
+     <string name="rr_systemuituner">System UI-Tuner</string>
+   <string name="enable_multi_window_summary">Mehrere Aktivitäten zur selben Zeit auf dem Bildschirm</string>
+    <string name="warning_multi_window_text">WARNUNG: Dies ist ein sehr experimentelles Feature, welches mehrere Aktivitäten gleichzeitig auf dem Bildschrim durch die Recent Apps-Oberfläche ermöglicht. Manche Apps können abstürzen oder nicht vollständig funktionsfähig sein, wenn sie mir diesem Feature in Benutzung sind.</string>
 
 	<!-- Restart SystemUI -->
-    <string name="restart_systemui">Restart SystemUI</string>
+    <string name="restart_systemui">SystemUI neustarten</string>
 
 	<!-- SuperSU -->
     <string name="supersu_title">SuperSU</string>
 
- <string name="weather_settings_title">Weather</string> 
+ <string name="weather_settings_title">Wetter</string> 
      <!-- Lockscreen weather -->
-     <string name="lockscreen_weather_title">Weather</string>
-     <string name="lock_screen_weather_settings_title">Weather options</string>
-     <string name="weather_show_weather_title">Show weather</string>
-     <string name="weather_show_weather_summary">Enable to show weather information</string>
-     <string name="weather_show_location_title">Show location</string>
-     <string name="weather_show_location_summary">Enable to show the location</string>
-     <string name="weather_show_timestamp_title">Show timestamp</string>
-     <string name="weather_show_timestamp_summary">Enable to show the timestamp</string>
-     <string name="weather_condition_icon_title">Condition icon</string>
-     <string name="weather_condition_icon_dlg_title">Choose an icon for displaying the weather condition</string>
-     <string name="weather_condition_icon_monochrome_title">Monochrome</string>
-     <string name="weather_condition_icon_colored_title">Colored</string>
+     <string name="lockscreen_weather_title">Wetter</string>
+     <string name="lock_screen_weather_settings_title">Wetter-Optionen</string>
+     <string name="weather_show_weather_title">Wetter anzeigen</string>
+     <string name="weather_show_weather_summary">Aktiviert die Anzeige der Wetterinformationen</string>
+     <string name="weather_show_location_title">Ort anzeigen</string>
+     <string name="weather_show_location_summary">Aktiviert die Anzeige des Ortes</string>
+     <string name="weather_show_timestamp_title">Zeitstempel anzeigen</string>
+     <string name="weather_show_timestamp_summary">Aktiviert die Anzeige des Zeitstempels</string>
+     <string name="weather_condition_icon_title">Zustandssymbol</string>
+     <string name="weather_condition_icon_dlg_title">Auswahl der Symbol-Stilrichtung für die Anzeige des Wetterzustands</string>
+     <string name="weather_condition_icon_monochrome_title">Monochrom</string>
+     <string name="weather_condition_icon_colored_title">Gefärbt</string>
      <string name="weather_condition_icon_vclouds_title">VClouds</string>
-     <string name="icons_title">Icons</string>
-     <string name="position_right_title">Right</string>
-     <string name="position_centered_title">Centered</string>
-     <string name="hidden_title">Hidden</string>
-     <string name="weather_cat_notifications_title">Notifications</string>
-    <string name="weather_hide_panel_title">Hide weather panel</string>
-    <string name="weather_hide_panel_dlg_title">Choose when the weather panel should be hidden</string>
-    <string name="weather_hide_panel_auto_title">Auto</string>
-    <string name="weather_hide_panel_custom_title">Custom</string>
-    <string name="weather_hide_panel_never_title">Never</string>
-    <string name="weather_hide_panel_auto_summary">The weather panel will be hidden when the visible notifications will reach the maximum allowed notifications on the lock screen</string>
-    <string name="weather_hide_panel_custom_summary">The weather panel will be hidden when the visible notifications will reach the chosen number of notifications</string>
-     <string name="weather_hide_panel_never_summary">The weather panel won\`t be hidden</string>
+     <string name="icons_title">Symbole</string>
+     <string name="position_right_title">Rechts</string>
+     <string name="position_centered_title">Zentriert</string>
+     <string name="hidden_title">Versteckt</string>
+     <string name="weather_cat_notifications_title">Benachrichtigungen</string>
+    <string name="weather_hide_panel_title">Wetteranzeige verstecken</string>
+    <string name="weather_hide_panel_dlg_title">Auswählen, wann die Wetteranzeige versteckt werden sollte</string>
+    <string name="weather_hide_panel_auto_title">Automatisch</string>
+    <string name="weather_hide_panel_custom_title">Benutzerdefiniert</string>
+    <string name="weather_hide_panel_never_title">Nie</string>
+    <string name="weather_hide_panel_auto_summary">Die Wetteranzeige wird versteckt, sobald die maximal erlaubte Anzahl an sichtbaren Benachrichtigungen auf dem Sperrbildschirm erreicht ist.</string>
+    <string name="weather_hide_panel_custom_summary">Die Wetteranzeige wird versteckt, sobald die selbst ausgewählte Anzahl an sichtbaren Benachrichtigungen auf dem Sperrbildschirm erreicht ist.</string>
+     <string name="weather_hide_panel_never_summary">Die Wetteranzeige wird nicht versteckt.</string>
      <string name="weather_number_of_notifications_title">Number of notifications</string>
 
 
@@ -983,40 +983,40 @@
     <string name="status_bar_carrier_color">Carrier label color</string>
 
     <!-- Statusbar RR logo -->
-    <string name="status_bar_logo">Resurrection logo</string>
-    <string name="status_bar_rr_logo_title">Enable logo</string>
-    <string name="status_bar_rr_logo_summary">Enable to show logo on the left side of statusbar</string>
-    <string name="status_bar_rr_logo_color">Logo color</string>
+    <string name="status_bar_logo">Resurrection-Logo</string>
+    <string name="status_bar_rr_logo_title">Logo anzeigen</string>
+    <string name="status_bar_rr_logo_summary">Anzeige des Logos auf der linken Seite der Statusleiste aktivieren</string>
+    <string name="status_bar_rr_logo_color">Farbe des Logos</string>
 
 
     <!-- Selinux Switch -->
-    <string name="selinux_switch_title">Selinux Switch options</string>
-    <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects. Use at your own risk</string>
-    <string name="selinux_title">Selinux Mode</string>
-    <string name="selinux_permissive_title">Permissive</string>
-    <string name="selinux_enforcing_title">Enforcing</string>
+    <string name="selinux_switch_title">Selinux Wechsel-Optionen</string>
+    <string name="selinux_switch_summary">SELinux ist eine Sammlung von Kernel-Modifikationstools und Sicherheitsrichtlinien. Das Ändern dieser Einstellung kann ungewünschte Ereignisse hervorrufen. Benutzung auf eigene Gefahr!</string>
+    <string name="selinux_title">Selinux-Modus</string>
+    <string name="selinux_permissive_title">Moderat</string>
+    <string name="selinux_enforcing_title">Strikt</string>
 
     <!-- Headphones icon switch -->
-    <string name="show_headset_icon_title">Headset icon</string>
-    <string name="show_headset_icon_summary">Shows icon when headsets are connected.</string>
+    <string name="show_headset_icon_title">Kopfhörer-Symbol</string>
+    <string name="show_headset_icon_summary">Zeigt ein Symbol an, wenn Kopfhörer mit dem Gerät verbunden sind.</string>
 
 
   <!-- Carrier Label -->
-    <string name="carrier_options">Carrier Label</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
-    <string name="custom_carrier_label_notset">Custom label currently not set</string>
-    <string name="status_bar_carrier_color">Carrier label color</string>
-    <string name="show_carrier_title">Carrier label</string>
-    <string name="show_carrier_disabled">Disabled</string>
-    <string name="show_carrier_keyguard">Keyguard carrier</string>
-    <string name="show_carrier_statusbar">Status bar carrier</string>
-    <string name="show_carrier_enabled">Enabled</string>
+    <string name="carrier_options">Provider-Anzeige</string>
+    <string name="custom_carrier_label_title">Benutzerdefinierte Provider-Anzeige</string>
+    <string name="custom_carrier_label_explain">Bitte tragen Sie hier die gewünschte Bezeichnung ein. Für die Verwendung der Standardanzeige können Sie das Feld freilassen.</string>
+    <string name="custom_carrier_label_notset">Benutzerdefinierte Anzeige zurzeit nicht festgelegt</string>
+    <string name="status_bar_carrier_color">Schriftfarbe</string>
+    <string name="show_carrier_title">Provider-Anzeige</string>
+    <string name="show_carrier_disabled">Deaktiviert</string>
+    <string name="show_carrier_keyguard">Sperrbildschirm</string>
+    <string name="show_carrier_statusbar">Statusleiste</string>
+    <string name="show_carrier_enabled">Aktiviert</string>
 
 
     <!-- Disabling FC notifications -->
-    <string name="disable_fc_notifications_title">Disable FC Notifications</string>
-    <string name="disable_fc_notifications_summary">This will hide all force close notificaitons</string>
+    <string name="disable_fc_notifications_title">Benachrichtigungen zu Zwangsschließungen deaktivieren</string>
+    <string name="disable_fc_notifications_summary">Alle Pop-Up-Fenster zu den Zwangsschließungen werden versteckt.</string>
 
    <!-- Disabling immersive mode messages -->
     <string name="disable_immersive_message_title">Disable Immersive Mode Messages</string>
@@ -1024,31 +1024,31 @@
 
  
     <!-- Navigation bar button color -->
-    <string name="navbar_button_tint_title">Button color</string>
+    <string name="navbar_button_tint_title">Tastenfarbe</string>
 
 
     <!-- Battery saver color -->
-    <string name="battery_saver_color_title">Warning color</string>
-    <string name="battery_saver_color_summary">Enable orange status and navigation bars when battery saver is activated</string>
+    <string name="battery_saver_color_title">Warnungsfarbe</string>
+    <string name="battery_saver_color_summary">Aktiviert orangefarbene Status- und Navigationsleisten, wenn der Energiesparmodus eingeschaltet ist</string>
 	
     <!-- Battery notifications -->
-    <string name="battery_saver_notif_title">Battery saver notification</string>
-    <string name="battery_saver_notif_summary">Show battery saver notification when enabled</string>
-    <string name="battery_low_notif_title">Low battery notification</string>
-    <string name="battery_low_notif_summary">Show low battery notification when enabled</string>
+    <string name="battery_saver_notif_title">Benachrichtigung über Energiesparmodus</string>
+    <string name="battery_saver_notif_summary">Zeigt eine Benachrichtigung an, wenn der Modus akitv ist</string>
+    <string name="battery_low_notif_title">Benachrichtigung zum geringen Akkustand</string>
+    <string name="battery_low_notif_summary">Blendet bei einem geringen Akkustand einen Hinweis ein</string>
 
     <!-- Status bar temperature -->
-    <string name="status_bar_temperature_title">Statusbar weather temperature</string>
-    <string name="status_bar_temperature_hidden">Hidden</string>
-    <string name="status_bar_temperature_show_scale">Shown with scale</string>
-    <string name="status_bar_temperature_hide_scale">Shown without scale</string>
-    <string name="status_bar_temperature_location_title">Placement</string>
-    <string name="status_bar_temperature_location_summary">Select where the weather temperature is shown on the statusbar</string>
-    <string name="status_bar_temperature_location_right">Show on right</string>
-    <string name="status_bar_temperature_location_left">Show on left</string>
-    <string name="status_bar_weather_color_title">Temperature color</string>
-    <string name="status_bar_weather_size_title">Font size</string>
-    <string name="status_bar_weather_font_style_title">Font</string>
+    <string name="status_bar_temperature_title">Wetter-Temperaturanzeige in der Statusleiste</string>
+    <string name="status_bar_temperature_hidden">Versteckt</string>
+    <string name="status_bar_temperature_show_scale">Mit Einheit anzeigen</string>
+    <string name="status_bar_temperature_hide_scale">Ohne Einheit anzeigen</string>
+    <string name="status_bar_temperature_location_title">Platzierung</string>
+    <string name="status_bar_temperature_location_summary">Auswählen, wo sich die Temperaturanzeige in der Statusleiste befinden soll</string>
+    <string name="status_bar_temperature_location_right">Auf der rechten Seite anzeigen</string>
+    <string name="status_bar_temperature_location_left">Auf der linken Seite anzeigen</string>
+    <string name="status_bar_weather_color_title">Schriftfarbe</string>
+    <string name="status_bar_weather_size_title">Schriftgröße</string>
+    <string name="status_bar_weather_font_style_title">Schrift</string>
     <string name="status_bar_weather_font_normal">Normal</string>
     <string name="status_bar_weather_font_italic">Italic</string>
     <string name="status_bar_weather_font_bold">Bold</string>
@@ -1069,119 +1069,119 @@
     <string name="status_bar_weather_font_black_italic">Black Italic</string>	
 
     <!-- Resurrection OTA -->
-    <string name="updater_title">Updates</string>
+    <string name="updater_title">Aktualisierungen</string>
 
     <!--Status bar date -->
-    <string name="status_bar_clock_category">Clock</string>
-    <string name="status_bar_date_title">Date</string>
-    <string name="status_bar_date_none">Hidden (default)</string>
-    <string name="status_bar_date_small">Small</string>
+    <string name="status_bar_clock_category">Uhrzeit</string>
+    <string name="status_bar_date_title">Datum</string>
+    <string name="status_bar_date_none">Versteckt (Standard)</string>
+    <string name="status_bar_date_small">Klein</string>
     <string name="status_bar_date_normal">Normal</string>
-    <string name="status_bar_date_format_title">Date format</string>
-    <string name="status_bar_date_style">Date style</string>
+    <string name="status_bar_date_format_title">Datumsformat</string>
+    <string name="status_bar_date_style">Datumsstil</string>
     <string name="status_bar_date_style_normal">Normal</string>
     <string name="status_bar_date_style_lowercase">Lowercase</string>
     <string name="status_bar_date_style_uppercase">Uppercase</string>
     <string name="status_bar_date_format_custom">Custom java format</string>
-    <string name="status_bar_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="status_bar_date_string_edittext_summary">Enter string</string>
+    <string name="status_bar_date_string_edittext_title">Muss im Datumsformat vorliegen, z.B. TT/MM/JJ</string>
+    <string name="status_bar_date_string_edittext_summary">Format eintragen</string>
 
     <!-- Sound settings -->
-    <string name="advanced_sound_title">Advanced Sound </string>
+    <string name="advanced_sound_title">Erweiterter Sound </string>
     <string name="sound_title">Sound</string>
 
     <!-- Camera sound switch -->
-    <string name="camera_sounds_title">Camera shutter sound</string>
-    <string name="camera_sounds_summary">Enable system camera shutter sound</string>
-    <string name="camera_sound_warning_dialog_text">Disabling the camera shutter sound is illegal in some areas! Please check the applicable law in your country</string>
+    <string name="camera_sounds_title">Kamera-Auslöserton</string>
+    <string name="camera_sounds_summary">Aktiviert den Auslöserton der Kamera</string>
+    <string name="camera_sound_warning_dialog_text">Das Deaktivieren des Auslösertons ist in einigen Gebieten illegal! Bitte prüfen Sie die jeweilige Gesetzeslage in Ihrem Land.</string>
 
      <!-- Slim Recents -->
     <string name="rr_recent_slim_category">Slim Recents</string>	
     <string name="slim_recents_panel">Slim Recents</string>
-    <string name="use_slim_recents_title">Slim recents</string>
-    <string name="show_running_tasks_title">Only show running apps</string>
-    <string name="recents_max_apps_title">Max allowed apps</string>
-    <string name="recent_panel_scale_title">Size</string>
-    <string name="recent_panel_expanded_mode_title">Expanded mode</string>
-    <string name="recent_panel_expanded_mode_summary">Recent tasks expanded preview mode</string>
-    <string name="recent_panel_expanded_mode_auto">Auto (default)</string>
-    <string name="recent_panel_expanded_mode_always">Always</string>
-    <string name="recent_panel_expanded_mode_never">Never</string>
+    <string name="use_slim_recents_title">Slim Recents</string>
+    <string name="show_running_tasks_title">Nur laufende Apps anzeigen</string>
+    <string name="recents_max_apps_title">Max. erlaubte Apps</string>
+    <string name="recent_panel_scale_title">Größe</string>
+    <string name="recent_panel_expanded_mode_title">Erweiterungsmodus</string>
+    <string name="recent_panel_expanded_mode_summary">Zuletzt ausgewählte Aufgabe im erweriterten Vorschaumodus anzeigen</string>
+    <string name="recent_panel_expanded_mode_auto">Automatisch (Standard)</string>
+    <string name="recent_panel_expanded_mode_always">Immer</string>
+    <string name="recent_panel_expanded_mode_never">Nie</string>
     <string name="recent_panel_show_topmost_title">Show topmost task</string>
     <string name="recent_panel_show_topmost_summary">Don\'t exclude the topmost task in recents view</string>
-    <string name="recent_panel_bg_color_title">Panel background color</string>
-    <string name="recent_card_bg_color_title">Card background color</string>
-    <string name="recent_card_text_color_title">Card text color</string>
+    <string name="recent_panel_bg_color_title">Fenster-Hintergrundfarbe</string>
+    <string name="recent_card_bg_color_title">Karten-Hintergrundfarbe</string>
+    <string name="recent_card_text_color_title">Karten-Textfarbe</string>
      <!-- ATTENTION: RTL languages need to replace left with right -->
-    <string name="recent_panel_lefty_mode_title">Show on the left edge</string>
-    <string name="recent_panel_lefty_mode_summary">Show recent apps panel on the left edge</string>
+    <string name="recent_panel_lefty_mode_title">Links anzeigen</string>
+    <string name="recent_panel_lefty_mode_summary">Stellt das Recents-Fenster auf der linken Seite dar</string>
 
-    <string name="default_string">Default</string>
+    <string name="default_string">Standard</string>
 
     <!-- Circle app bar -->
-    <string name="category_app_circle_bar_title">App launcher</string>
-    <string name="app_circle_bar_title">App circle bar</string>
-    <string name="app_circle_bar_summary">Show circle app launcher after touching right side of screen</string>
-    <string name="app_circle_bar_included_apps_title">Included apps</string>
-    <string name="app_circle_bar_included_apps_summary">Apps will show in app circle bar</string>
-    <string name="trigger_width_title">Trigger width</string>
-    <string name="trigger_width_summary">Adjust the width of the trigger area</string>
-    <string name="trigger_top_title">Trigger position</string>
-    <string name="trigger_top_summary">Adjust the vertical postion of the trigger area</string>
-    <string name="trigger_bottom_title">Trigger height</string>
-    <string name="trigger_bottom_summary">Adjust the height of the trigger area</string>
+    <string name="category_app_circle_bar_title">App-Launcher</string>
+    <string name="app_circle_bar_title">App-Kreisleiste</string>
+    <string name="app_circle_bar_summary">Zeigt einen kreisförmigen App-Launcher nach Berührung des rechten Bildschirmrandes an</string>
+    <string name="app_circle_bar_included_apps_title">Beinhaltete Apps</string>
+    <string name="app_circle_bar_included_apps_summary">Ausgewählte Apps werden in der Kreisleiste angezeigt.</string>
+    <string name="trigger_width_title">Breite des Auslösebereiches</string>
+    <string name="trigger_width_summary">Bestimmung der Breite des Auslösebereiches</string>
+    <string name="trigger_top_title">Position des Auslösebreiches</string>
+    <string name="trigger_top_summary">Bestimmung der vertikalen Position des Auslösebereiches</string>
+    <string name="trigger_bottom_title">Höhe des Auslösebereiches</string>
+    <string name="trigger_bottom_summary">Bestimmung der Höhe des Auslösebreiches</string>
 
-    <string name="powermenu_lockscreen_title">Power menu on lock screen</string>
-    <string name="powermenu_lockscreen_summary">Show power menu on the lock screen</string>
+    <string name="powermenu_lockscreen_title">Ausschalten-Menü im Sperrbildschirm</string>
+    <string name="powermenu_lockscreen_summary">Zeigt das Menü zum Ausschalten des Gerätes im Sperrbildschirm an</string>
 
     <!-- Qucik unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
+    <string name="unlock_quick_unlock_control_summary">Automatisches Entsperren, sobald die PIN/Passwort-Anfrage korrekt beantwortet wurde</string>
 
    <!-- MediaScanner behavior on boot -->
-    <string name="options_settings_title">Options</string>
-    <string name="media_scanner_on_boot_title">MediaScanner behavior on boot</string>
-    <string name="media_scanner_on_boot_enabled">Scan media</string>
-    <string name="media_scanner_on_boot_ask">Ask to scan (notification)</string>
-    <string name="media_scanner_on_boot_disabled">Do not scan media</string>
+    <string name="options_settings_title">Optionen</string>
+    <string name="media_scanner_on_boot_title">Verhalten des Mediendateienscanners beim Starten</string>
+    <string name="media_scanner_on_boot_enabled">Mediendateien durchsuchen</string>
+    <string name="media_scanner_on_boot_ask">Scannen abfragen (Benachrichtigung)</string>
+    <string name="media_scanner_on_boot_disabled">Mediendateien nicht durchsuchen</string>
 
     <!-- Whether the keyguard will directly pass to password entry -->
-    <string name="lock_directly_show_password">Directly show password entry</string>
+    <string name="lock_directly_show_password">Direkte Anzeige des Passwort-Eintrags</string>
     <!-- Whether the keyguard will directly pass to pattern view -->
-    <string name="lock_directly_show_pattern">Directly show pattern view</string>
+    <string name="lock_directly_show_pattern">Direkte Anzeige der Musteransicht</string>
     <!-- Whether the keyguard will directly pass to PIN entry -->
-    <string name="lock_directly_show_pin">Directly show PIN entry</string>
+    <string name="lock_directly_show_pin">Direkte Anzeige des PIN-Eintrags</string>
 
     <!-- Sound & Notification Settings -->
     <!-- Linked / unlinked notification volume -->
-    <string name="link_volume_option_title">Link ring and notification volumes</string>
-    <string name="notification_volume_option_title">Notification volume</string>
-    <string name="ring_notification_volume_option_title">Ring and notification volume</string>
+    <string name="link_volume_option_title">Gemeinsame Lautstärkeregelung für Anrufe und Benachrichtigungen</string>
+    <string name="notification_volume_option_title">Benachrichtigungslautstärke</string>
+    <string name="ring_notification_volume_option_title">Anruf- und Benachrichtigungslautstärke</string>
 
 
     <!-- Keyboard and Input ASS methods  -->
-    <string name="title_keyboard_input">Advanced options</string>
-    <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-    <string name="disable_fullscreen_keyboard_summary">Landscape keyboard will never take up entire screen</string>
-    <string name="keyboard_rotation_toggle_title">Auto keyboard rotation</string>
-    <string name="keyboard_rotation_toggle_summary">Force auto-rotate when keyboard is shown</string>
-    <string name="keyboard_rotation_timeout_title">Auto-rotate timeout</string>
-    <string name="keyboard_rotation_timeout_summary">Disables auto-rotate sensor <xliff:g id="rotate_timeout">%1$s</xliff:g> seconds after keyboard is hidden</string>
-    <string name="keyboard_rotation_dialog">This feature forces auto-rotate to turn on temporarily while the keyboard is shown.  It has no effect when auto-rotate is already enabled.</string>
-    <string name="show_enter_key_title">Show enter key</string>
-    <string name="show_enter_key_summary">Force keyboard to show enter instead of emoticon key</string>
+    <string name="title_keyboard_input">Erweiterte Optionen</string>
+    <string name="disable_fullscreen_keyboard_title">Vollbild-Tastatur daktivieren</string>
+    <string name="disable_fullscreen_keyboard_summary">Die Tastatur wird im Breitbildmodus nie den kompletten Bildschirm beanspruchen.</string>
+    <string name="keyboard_rotation_toggle_title">Automatisches Drehen der Tastatur</string>
+    <string name="keyboard_rotation_toggle_summary">Erzwingt das automatische Drehen bei angezeigter Tastatur</string>
+    <string name="keyboard_rotation_timeout_title">Zeitrahmen für automatisches Drehen</string>
+    <string name="keyboard_rotation_timeout_summary">Deaktiviert den Bewegungssensor für <xliff:g id="rotate_timeout">%1$s</xliff:g> Sekunden, nachdem die Tastatur ausgeblendet ist.</string>
+    <string name="keyboard_rotation_dialog">Dieses Feature erzwingt das temporäre Einschalten der Autorotation bei angezeigter Tastatur.  Es gibt keine Änderungen, wenn die Autorotation bereits aktiviert ist.</string>
+    <string name="show_enter_key_title">Eingabetaste anzeigen</string>
+    <string name="show_enter_key_summary">Zwingt die Tastatur zur Anzeige der Eingabetaste anstelle der Emoticon-Taste</string>
 
  <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_summary">Block system wakelocks</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
-    <string name="wakelock_blocker_warning_title">Proceed with caution</string>
-    <string name="wakelock_blocker_warning">Blocking wakelocks have the potential to cause instability, crashes or data loss</string>
+    <string name="wakelock_blocker_title">Wakelock-Blocker</string>
+    <string name="wakelock_blocker_summary">Blockiert systemeigene Wakelocks</string>
+    <string name="wakelock_blocker_save">Speichern</string>
+    <string name="wakelock_list_header">Vorhandene Wakelocks</string>
+    <string name="wakelock_blocker_reload">Neu laden</string>
+    <string name="wakelock_blocker_warning_title">Fortfahren auf eigene Gefahr</string>
+    <string name="wakelock_blocker_warning">Das Blockieren von Wakelocks hat das Potenzial, um Instabilität, Abstürze oder Datenverlust zu verursachen.</string>
 
 	<!--Ad-Blocker-->
-  <string name="adaway_settings_title">Ad Blocker</string>
+  <string name="adaway_settings_title">Werbeblocker</string>
 
     <!-- PA Pie control -->
     <string name="pa_piecontrol_settings_summary">Customize PA Pie 2.0 targets, style, size and color</string>
@@ -1252,28 +1252,28 @@
     <string name="reset_android">Android</string>
 
     <!-- Task Manager -->
-    <string name="enable_task_manager_title">Task Manager</string>
-    <string name="enable_task_manager_summary">Enable/Disable action for the task manager button in the expanded statusbar area.</string>
+    <string name="enable_task_manager_title">Taskmanager</string>
+    <string name="enable_task_manager_summary">(De-)Aktiviert Taskmanager-Taste in der erweiterten Statusleiste</string>
 
     <!-- SlimSizer  -->
-    <string name="listsystem">list</string>
-    <string name="sizer_title">App remover</string>
-    <string name="caution">Caution!</string>
-    <string name="sizer_message_startup">This tool allows you to delete system apps. Use with caution and only delete apps you know are safe to be removed.</string>
-    <string name="cancel">Cancel</string>
-    <string name="sizer_message_delete">Are you sure you want to delete this app?</string>
-    <string name="btn_delete">Delete selected APPs now!</string>
-    <string name="delete_progress_title">Deleting</string>
-    <string name="delete_progress">Selected files are being deleted...</string>
-    <string name="delete_success">Deleted</string>
-    <string name="delete_fail">Unable to delete</string>
-    <string name="btn_profile">Profile</string>
-    <string name="sizer_message_sdnowrite">Cannot write to SD Card.</string>
-    <string name="sizer_message_sdnoread">Cannot read SD Card.</string>
-    <string name="sizer_message_filesuccess">Created profile.</string>
-    <string name="sizer_message_filefail">Failed to create profile.</string>
-    <string name="sizer_message_noselect">Nothing selected.</string>
-    <string name="system_app_remover">System App Remover</string>
+    <string name="listsystem">Liste</string>
+    <string name="sizer_title">Anwendungsentferner</string>
+    <string name="caution">Vorsicht!</string>
+    <string name="sizer_message_startup">Dieses Tool erlaubt Ihnen die Entfernung von Systemanwendungen. Benutzung auf eigene Gefahr - bitte löschen Sie nur Apps, bei denen die sichere Entfernung problemlos möglich ist.</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="sizer_message_delete">Sind Sie sicher, dass Sie diese App löschen möchten?</string>
+    <string name="btn_delete">Ausgewählte APPs jetzt löschen!</string>
+    <string name="delete_progress_title">Löschen</string>
+    <string name="delete_progress">Ausgewählte Dateien werden entfernt...</string>
+    <string name="delete_success">Gelöscht</string>
+    <string name="delete_fail">Entfernung fehlgeschlagen</string>
+    <string name="btn_profile">Profil</string>
+    <string name="sizer_message_sdnowrite">Das Beschreiben der SD-Karte ist nicht möglich.</string>
+    <string name="sizer_message_sdnoread">Das Auslesen der SD-Karte ist nicht möglich.</string>
+    <string name="sizer_message_filesuccess">Profil erstellt</string>
+    <string name="sizer_message_filefail">Die Erstellung des Profils ist fehlgeschlagen.</string>
+    <string name="sizer_message_noselect">Nichts ausgewählt</string>
+    <string name="system_app_remover">Anwendungsentferner</string>
 
     <!-- The volume key answer -->
     <string name="volume_answer_call_title">Volume key Answer</string>
@@ -1402,24 +1402,24 @@
 
   
    <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">Musik-App öffnen</string>
+    <string name="headset_connect_player_summary">Automatisches Öffnen der Musik-App nach dem Verbinden des Kopfhörers</string>
   
     <!-- 4G LTE switch -->
-    <string name="show_fourg_title">Show 4G instead of LTE</string>
-    <string name="show_fourg_summary">Replaces LTE statusbar indicator with 4G</string>
-    <string name="statusbar_tuner_category_title">Hide items from statusbar</string>
+    <string name="show_fourg_title">4G anstelle von LTE anzeigen</string>
+    <string name="show_fourg_summary">Ersetzt die LTE-Anzeige in der Statusleiste durch 4G</string>
+    <string name="statusbar_tuner_category_title">Inhalte der Statusleiste verstecken</string>
 
     <!-- 3G / HSPA switch -->
-    <string name="show_threeg_title">Show 3G instead of HSPA</string>
-    <string name="show_threeg_summary">Replaces H+ statusbar indicator with 3G</string>
-    <string name="statusbar_tuner_category_title">Hide items from statusbar</string>
+    <string name="show_threeg_title">3G anstelle von HSPA anzeigen</string>
+    <string name="show_threeg_summary">Ersetzt die H+-Anzeige in der Statusleiste durch 3G</string>
+    <string name="statusbar_tuner_category_title">Inhalte der Statusleiste verstecken</string>
 
     <!-- Lock Clock Fonts -->
-    <string name="lock_clock_font_title">Lock Clock Fonts</string>
-    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
-    <string name="lock_clock_font_dialog_title">Select lock clock font</string>
-    <string name="lock_clock_font_normal">Roboto (default)</string>
+    <string name="lock_clock_font_title">Schriftart der Lockscreen-Uhr</string>
+    <string name="lock_clock_font_summary">Änderung der Schriftart des Uhrzeit-Widgets im Sperrbildschirm</string>
+    <string name="lock_clock_font_dialog_title">Schriftart auswählen</string>
+    <string name="lock_clock_font_normal">Roboto (Standard)</string>
     <string name="lock_clock_font_bold">Roboto Bold</string>
     <string name="lock_clock_font_italic">Roboto Italic</string>
     <string name="lock_clock_font_bold_italic">Roboto Bold Italic</string>
@@ -1439,140 +1439,140 @@
     <string name="lock_clock_font_condensed_light_italic">Roboto Condensed Light Italic</string>
 
     <!-- Screenshot sound -->
-    <string name="screenshot_sound_title">Screenshot sound</string>
-    <string name="screenshot_sound_summary">Plays sound effect when screenshot is taken</string>
+    <string name="screenshot_sound_title">Screenshot-Auslöserton</string>
+    <string name="screenshot_sound_summary">Spielt einen Ton ab, wenn ein Screenshot aufgenommen wird</string>
 
     <!-- Volume Steps Fragment -->
-    <string name="volume_steps_fragment_title">Volume steps</string>
-    <string name="volume_steps_summary">Customize volume steps</string>
-    <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-    <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-    <string name="volume_steps_music_title">Volume steps: Media</string>
-    <string name="volume_steps_notification_title">Volume steps: Notification</string>
-    <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-    <string name="volume_steps_system_title">Volume steps: System</string>
-    <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-    <string name="volume_steps_reset">Reset</string>
+    <string name="volume_steps_fragment_title">Lautstärkeregler</string>
+    <string name="volume_steps_summary">Anpassung der Schritte für die Bestimmung der Lautstärke</string>
+    <string name="volume_steps_alarm_title">Lautstärkeregler: Wecker</string>
+    <string name="volume_steps_dtmf_title">Lautstärkeregler: DTMF</string>
+    <string name="volume_steps_music_title">Lautstärkeregler: Medien</string>
+    <string name="volume_steps_notification_title">Lautstärkeregler: Benachrichtigung</string>
+    <string name="volume_steps_ring_title">Lautstärkeregler: Anrufton</string>
+    <string name="volume_steps_system_title">Lautstärkeregler: System</string>
+    <string name="volume_steps_voice_call_title">Lautstärkeregler: Telefongespräch</string>
+    <string name="volume_steps_reset">Zurücksetzen</string>
 
     <!-- Battery stats reset -->
-    <string name="battery_stats_reset">Reset stats</string>
-    <string name="battery_stats_message">Battery history stats are going to be reset</string>
-    <string name="ok_string">Ok</string>
+    <string name="battery_stats_reset">Statistiken zurücksetzen</string>
+    <string name="battery_stats_message">Akkustatistiken werden zurückgesetzt</string>
+    <string name="ok_string">OK</string>
 
 
     <!-- app notifications hide on lockscreen -->
-    <string name="app_notification_no_keyguard_title">Hide when locked</string>
-    <string name="app_notification_no_keyguard_summary">Hide notifications of this app when device is locked</string>
-    <string name="filter_notif_no_keyguard">Hidden when locked</string>
-    <string name="notifications_no_keyguard">Hidden when locked</string>
+    <string name="app_notification_no_keyguard_title">Bei aktiver Sperre verstecken</string>
+    <string name="app_notification_no_keyguard_summary">Benachrichitgungen dieser App verstecken, wenn das Gerät gesperrt ist.</string>
+    <string name="filter_notif_no_keyguard">Bei aktiver Sperre nicht versteckt</string>
+    <string name="notifications_no_keyguard">Bei aktiver Sperre versteckt</string>
     <string name="notifications_four_items"><xliff:g id="notif_state" example="Priority">%1$s</xliff:g> / <xliff:g id="notif_state" example="Priority">%2$s</xliff:g> / <xliff:g id="notif_state" example="Priority">%3$s</xliff:g> / <xliff:g id="notif_state" example="Priority">%4$s</xliff:g></string>
 
     <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
-    <string name="show_cpu_info">Show CPU info</string>
+    <string name="show_cpu_info">CPU-Info anzeigen</string>
     <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
-    <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+    <string name="show_cpu_info_summary">Bildschirmüberlagerung mit den aktuellen CPU-Statistiken</string>
 
-    <string name="brightness_icon_title">Brightness Icon </string>
-    <string name="brightness_icon_summary">Enable Disable The Brightness Icon Existing Next To Brightness Slider</string>
+    <string name="brightness_icon_title">Helligkeitssymbol </string>
+    <string name="brightness_icon_summary">(De-)Aktiviert das bestehende Symbol neben dem Helligkeitsregler</string>
 
     <!--Persist Add Tiles Button-->
-    <string name="persist_add_title">Persist Add Tiles Icon </string>
-    <string name="persist_add_summary">Enable/Disable This Switch make Add Tiles Icon Visible even With Brightness Slider Disabled</string>
+    <string name="persist_add_title">Anhaltende Anzeige des Kachelbearbeitungs-Symbols </string>
+    <string name="persist_add_summary">Die (De-)Aktivierung der Schaltfläche macht das Symbol selbst mit deaktiviertem Helligkeitsregler sichtbar.</string>
 
   <!-- Quick settings disable on lockscreen -->
-    <string name="block_on_secure_keyguard_title">Disable quick settings on lockscreen</string>
-    <string name="block_on_secure_keyguard_summary">Disables quick settings in the keyguard for a secure lock only</string>
+    <string name="block_on_secure_keyguard_title">Schnelleinstellungen in Sperrbildschirm deaktivieren</string>
+    <string name="block_on_secure_keyguard_summary">Deaktiviert die Schnelleinstellungen bei einem gesperrten Bildschirm</string>
 
 
 
     <!-- QS shade transparency -->
-    <string name="qs_transparent_shade">QS Panel Opacity</string>
+    <string name="qs_transparent_shade">Fenstertransparenz des Schnelleinstellungsmenüs</string>
 
     <!-- Safe headset volume restore checkbox -->
-    <string name="safe_headset_volume_title">Safe headset volume</string>
-    <string name="safe_headset_volume_summary">Prevent loud volume levels when headset is first plugged in</string>
-    <string name="safe_headset_volume_warning_dialog_text">Listening at high volume for long periods may damage your hearing. Disable it with caution.</string>
+    <string name="safe_headset_volume_title">Sichere Kopfhörerlautstärke</string>
+    <string name="safe_headset_volume_summary">Laute Lautstärkebereiche verhindern, wenn der Kopfhörer zu Beginn verbunden wird</string>
+    <string name="safe_headset_volume_warning_dialog_text">Das langanhaltende Hören mit hoher Lautstärke kann das Gehör schädigen. Deaktivierung auf eigene Gefahr.</string>
 
 
     <!-- Notification color settings -->
-	<string name="notification_color">Notification Colors</string>
-    <string name="notification_drawer_clear_all_icon_color_title">Clear all icon</string>
+	<string name="notification_color">Benachrichtigungsfarbe</string>
+    <string name="notification_drawer_clear_all_icon_color_title">Säuberungssymbol</string>
 
     <string name="dlg_reset_rr">RR</string>
-    <string name="dlg_reset_values_message">Reset values to default?</string>	
-    <string name="dlg_reset_android">Ok</string>	
-    <string name="cat_colors_title">Customizations</string>
-    <string name="background_title">Notification Background</string>
-    <string name="icon_title">Icon</string>
-    <string name="colors_title">Colors</string>
+    <string name="dlg_reset_values_message">Einsetllungen auf Standardwerte zurücksetzen?</string>	
+    <string name="dlg_reset_android">OK</string>	
+    <string name="cat_colors_title">Anpassungen</string>
+    <string name="background_title">Benachrichtigungshintergrund</string>
+    <string name="icon_title">Symbol</string>
+    <string name="colors_title">Farben</string>
     <string name="text_title">Text</string>
 
-    <string name="notification_color_settings_title">Notification colors</string>
-    <string name="notification_media_bg_mode_title">Colorize the media background</string>
-    <string name="notification_app_icon_bg_mode_title">Colorize the app icon background</string>
-    <string name="notification_app_icon_color_mode_title">Colorize app icon</string>
-    <string name="notification_bg_guts_color_title">Notification Background on longpress</string>
-    <string name="notification_app_icon_bg_color_title">App icon background</string>
-    <string name="notification_color_mode_never_title">Never</string>
-    <string name="notification_icon_color_mode_greyscale_title">If the icon is an greyscale icon</string>
-    <string name="notification_bg_color_mode_no_color_title">If the notification doesn\`t include an own color</string>
-    <string name="notification_color_mode_always_title">Always</string>
-    <string name="notification_drawer_clear_all_icon_color_title">Clear all icon</string>
- <string name="notif_color_switch">Notification Colors</string>
+    <string name="notification_color_settings_title">Benachrichtigungsfarben</string>
+    <string name="notification_media_bg_mode_title">Färbt den Medienhintergrund</string>
+    <string name="notification_app_icon_bg_mode_title">Färbt den Hintergrund des App-Symbols</string>
+    <string name="notification_app_icon_color_mode_title">Färbt das App-Symbol</string>
+    <string name="notification_bg_guts_color_title">Benachrichtigungshintergrund bei Gedrückthalten</string>
+    <string name="notification_app_icon_bg_color_title">Hintergrund des App-Symbols</string>
+    <string name="notification_color_mode_never_title">Nie</string>
+    <string name="notification_icon_color_mode_greyscale_title">Wenn das Symbol Graustufen enthält</string>
+    <string name="notification_bg_color_mode_no_color_title">Wenn die Benachrichtigung keine eigene Farbe beinhaltet</string>
+    <string name="notification_color_mode_always_title">Immer</string>
+    <string name="notification_drawer_clear_all_icon_color_title">Säuberungssymbol</string>
+ <string name="notif_color_switch">Benachrichtigungsfarben</string>
 
     <!-- Lockscreen Torch -->
-    <string name="keyguard_torch_title">Lockscreen torch</string>
-    <string name="keyguard_torch_summary">Longpress power button while screen is off to turn on flashlight</string>
+    <string name="keyguard_torch_title">Lockscreen-Taschenlampe</string>
+    <string name="keyguard_torch_summary">Durch Gedrückthalten der Power-Taste wird die LED-Lampe ein- bzw. ausgeschaltet.</string>
 
     <!-- Immersive Recents -->
     <string name="immersive_recents_title">Immersive Recents</string>
-    <string name="immersive_recents_summary">Change the view of the recents screen</string>
-    <string name="immersive_recents_dialog_title">Select recents view</string>
-    <string name="immersive_recents_default">Default</string>
-    <string name="immersive_recents_fullscreen">Fullscreen</string>
-    <string name="immersive_recents_statusbar">Statusbar only</string>
-    <string name="immersive_recents_navbar">Navbar only</string>
+    <string name="immersive_recents_summary">Ändert die Ansicht des Recents-Bildschirms</string>
+    <string name="immersive_recents_dialog_title">Wählen Sie die Recents-Ansicht aus.</string>
+    <string name="immersive_recents_default">Standard</string>
+    <string name="immersive_recents_fullscreen">Vollbild</string>
+    <string name="immersive_recents_statusbar">Nur die Statusleiste</string>
+    <string name="immersive_recents_navbar">Nur die Navigationsleiste</string>
 
     <!-- Annoying Notifications -->
-    <string name="notifications_category_title">Notifications</string>
-    <string name="less_notification_sounds_title">Less frequent notification sounds</string>
-    <string name="less_notification_sounds_summary">Limit the notification sounds of each app to only play once per set time period</string>
-    <string name="less_notification_sounds_default">Default Behaviour</string>
-    <string name="less_notification_sounds_3s">3 seconds</string>
-    <string name="less_notification_sounds_5s">5 seconds</string>
-    <string name="less_notification_sounds_10s">10 seconds</string>
-    <string name="less_notification_sounds_15s">15 seconds</string>
-    <string name="less_notification_sounds_30s">30 seconds</string>
-    <string name="less_notification_sounds_45s">45 seconds</string>
-    <string name="less_notification_sounds_1m">1 minute</string>
-    <string name="less_notification_sounds_2m">2 minutes</string>
-    <string name="less_notification_sounds_5m">5 minutes</string>
+    <string name="notifications_category_title">Benachrichtigungen</string>
+    <string name="less_notification_sounds_title">Geringere Häufigkeit an Benachrichtigungstönen</string>
+    <string name="less_notification_sounds_summary">Limitiert die Anzahl der Benachrichtigungstöne jeder App auf einen Ton im ausgewählten Zeitraum</string>
+    <string name="less_notification_sounds_default">Standardmäßiges Verhalten</string>
+    <string name="less_notification_sounds_3s">3 Sekunden</string>
+    <string name="less_notification_sounds_5s">5 Sekunden</string>
+    <string name="less_notification_sounds_10s">10 Sekunden</string>
+    <string name="less_notification_sounds_15s">15 Sekunden</string>
+    <string name="less_notification_sounds_30s">30 Sekunden</string>
+    <string name="less_notification_sounds_45s">45 Sekunden</string>
+    <string name="less_notification_sounds_1m">1 Minute</string>
+    <string name="less_notification_sounds_2m">2 Minuten</string>
+    <string name="less_notification_sounds_5m">5 Minuten</string>
 
     <!-- Dashboard columns -->
     <string name="dashboard_columns_title">Dashboard Columns</string>
     <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard</string>
     <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
-    <string name="dashboard_columns_default">One (default)</string>
-    <string name="dashboard_columns_two">Two</string>
-    <string name="dashboard_columns_three">Three</string>
+    <string name="dashboard_columns_default">Eins (Standard)</string>
+    <string name="dashboard_columns_two">Zwei</string>
+    <string name="dashboard_columns_three">Drei</string>
 
     <!-- Breathing Notifications -->
-    <string name="breathing_notifications_category">Breathing Notifications</string>
-    <string name="breathing_notifications_title">Breathing notifications</string>
-    <string name="missed_call_breath_title">Breathing Missed Call</string>
-    <string name="missed_call_breath_summary">Will give your missed call notifications a breathing effect in the statusbar</string>
-    <string name="voicemail_breath_title">Breathing Voicemail</string>
-    <string name="voicemail_breath_summary">Will give your voicemail notifications a breathing effect in the statusbar</string>
+    <string name="breathing_notifications_category">Atmende Benachrichtigungen</string>
+    <string name="breathing_notifications_title">Atmende Anruf-Benachrichtigungen</string>
+    <string name="missed_call_breath_title">Verpasste Anrufe</string>
+    <string name="missed_call_breath_summary">Benachrichtigungen zu verpassten Anrufen erhaltten einen atmenden Effekt in der Statusleiste</string>
+    <string name="voicemail_breath_title">Anrufbeantworter</string>
+    <string name="voicemail_breath_summary">Benachrichtigungen des Anrufbeantworters erhalten einen atmenden Effekt in der Statusleiste</string>
 
      <!-- QS header transparency -->
-    <string name="qs_transparent_header">QS header Opacity</string>
+    <string name="qs_transparent_header">Transparenz des Headers bei den Schnelleinstellungen</string>
 
  <!-- Volume dialog transparency -->
-   <string name="volume_dialog_transparency">Volume dialog Opacity</string>
+   <string name="volume_dialog_transparency">Transparenz des Lautstärkefensters</string>
 
 
     <!-- Power menu and dialogs transparency -->
-    <string name="power_menu_transparency">Power menu Opacity</string>
+    <string name="power_menu_transparency">Transparenz des Ausschalten-Menüfensters</string>
 
   <!-- Dashboard tileview double lines -->
     <string name="dashboard_category">Dashboard settings</string>
