@@ -525,8 +525,8 @@
     <string name="dim_nav_buttons_alpha_summary">Alpha value to dim buttons to</string>
     <string name="dim_nav_buttons_animate_title">Dim animation</string>
     <string name="dim_nav_buttons_animate_summary">Animate the alpha fade</string>
-    <string name="dim_nav_buttons_animate_duration_title">Animation duration</string>
-    <string name="dim_nav_buttons_animate_duration_summary">Duration (in milliseconds) of the alpha animation</string>
+    <string name="dim_nav_buttons_animate_duration_title">Animations Dauer</string>
+    <string name="dim_nav_buttons_animate_duration_summary">Dauer (in Millisekunden) of the alpha animation</string>
 
    <!-- HW keys Switch -->
     <string name="disable_hwkeys_title">HW-Tasten deaktivieren</string>
@@ -578,13 +578,13 @@
 
     <!-- Lock clock -->
     <string name="lock_clock_title">Uhr Widget</string>
-    <string name="lock_clock_summary">Ansehen oder Bearbeiten wie fsd \'cLock\' Home  Widget aussehen wird</string>
+    <string name="lock_clock_summary">Ansehen oder bearbeiten wie fsd \'cLock\' Home  Widget aussehen wird</string>
     <string name="lock_clock_clock_section_title">Uhr und Wecker</string>
-    <string name="lock_clock_clock_section_summary">Ansehen oder Bearbeiten wie die Uhr des \'cLock\' Home  Widget aussehen wird</string>
+    <string name="lock_clock_clock_section_summary">Ansehen oder bearbeiten wie die Uhr des \'cLock\' Home  Widget aussehen wird</string>
     <string name="lock_clock_weather_section_title">Wetter Anzeige</string>
-    <string name="lock_clock_weather_section_summary">Ansehen oder Bearbeiten wie das Wetter des \'cLock\' Home  Widget aussehen wird</string>
+    <string name="lock_clock_weather_section_summary">Ansehen oder bearbeiten wie das Wetter des \'cLock\' Home  Widget aussehen wird</string>
     <string name="lock_clock_calendar_section_title">Kalender-Ereignisse</string>
-    <string name="lock_clock_calendar_section_summary">Ansehen oder Bearbeiten wie der Kalender des \'cLock\' Home  Widget aussehen wird</string>
+    <string name="lock_clock_calendar_section_summary">Ansehen oder bearbeiten wie der Kalender des \'cLock\' Home  Widget aussehen wird</string>
 
     <!-- Gesture Anywhere -->
     <string name="gesture_anywhere_title">Gesten Überall</string>
@@ -690,35 +690,35 @@
     <string name="shortcut_action_help_pie_second_layer_delete_last_entry">Removing every %1$s in the list will disable the second pie layer entirely.</string>
 
 
-    <string name="shortcuts_applications">Applications</string>
-    <string name="shortcuts_select_custom_app_title">Select custom application</string>
-    <string name="shortcuts_icon_picker_type">Select icon type:</string>
-    <string name="shortcuts_icon_default">Default</string>
-    <string name="shortcuts_icon_presets">System icons</string>
-    <string name="shortcuts_icon_custom">Gallery</string>
-    <string name="shortcuts_icon_picker_choose_icon_title">Choose icon</string>
+    <string name="shortcuts_applications">Applikationen</string>
+    <string name="shortcuts_select_custom_app_title">Applikation auswählen</string>
+    <string name="shortcuts_icon_picker_type">Icon Typ auswählen:</string>
+    <string name="shortcuts_icon_default">Standart</string>
+    <string name="shortcuts_icon_presets">System Icons</string>
+    <string name="shortcuts_icon_custom">Gallerie</string>
+    <string name="shortcuts_icon_picker_choose_icon_title">Icon auswählen</string>
 
-    <string name="shortcuts_icon_picker_alarm">Alarm</string>
+    <string name="shortcuts_icon_picker_alarm">Wecker</string>
     <string name="shortcuts_icon_picker_andy">Andy</string>
-    <string name="shortcuts_icon_picker_battery">Battery</string>
+    <string name="shortcuts_icon_picker_battery">Akku</string>
     <string name="shortcuts_icon_picker_browser">Browser</string>
-    <string name="shortcuts_icon_picker_calendar">Calendar</string>
-    <string name="shortcuts_icon_picker_camera">Camera</string>
+    <string name="shortcuts_icon_picker_calendar">Kalender</string>
+    <string name="shortcuts_icon_picker_camera">Kamera</string>
     <string name="shortcuts_icon_picker_cloud">Cloud</string>
-    <string name="shortcuts_icon_picker_contact">Contact</string>
-    <string name="shortcuts_icon_picker_directdial">Direct Dial</string>
-    <string name="shortcuts_icon_picker_directmessage">Direct Message</string>
+    <string name="shortcuts_icon_picker_contact">Kontakt</string>
+    <string name="shortcuts_icon_picker_directdial">Direktwahl</string>
+    <string name="shortcuts_icon_picker_directmessage">Direkt-Nachricht</string>
     <string name="shortcuts_icon_picker_drive">Drive</string>
     <string name="shortcuts_icon_picker_dropbox">Dropbox</string>
     <string name="shortcuts_icon_picker_email">Email</string>
-    <string name="shortcuts_icon_picker_email2">Email Alternate</string>
+    <string name="shortcuts_icon_picker_email2">Email alternativ</string>
     <string name="shortcuts_icon_picker_evernote">Evernote</string>
     <string name="shortcuts_icon_picker_facebook">Facebook</string>
     <string name="shortcuts_icon_picker_favorite">Favorite</string>
-    <string name="shortcuts_icon_picker_file_browser">File Browser</string>
-    <string name="shortcuts_icon_picker_file_browser2">File Browser Alternate</string>
+    <string name="shortcuts_icon_picker_file_browser">Dateimanager</string>
+    <string name="shortcuts_icon_picker_file_browser2">Dataimanager alternativ</string>
     <string name="shortcuts_icon_picker_fitness">Fitness</string>
-    <string name="shortcuts_icon_picker_gallery">Gallery</string>
+    <string name="shortcuts_icon_picker_gallery">Gallerie</string>
     <string name="shortcuts_icon_picker_gears">Gears</string>
     <string name="shortcuts_icon_picker_google_small">Google</string>
     <string name="shortcuts_icon_picker_gplus">Google Plus</string>
@@ -727,23 +727,23 @@
     <string name="shortcuts_icon_picker_joystick">Joystick</string>
     <string name="shortcuts_icon_picker_key">Keys/Accounts</string>
     <string name="shortcuts_icon_picker_laptop">Laptop</string>
-    <string name="shortcuts_icon_picker_notes">Notes</string>
+    <string name="shortcuts_icon_picker_notes">Notizen</string>
     <string name="shortcuts_icon_picker_luggage">Travel</string>
     <string name="shortcuts_icon_picker_maps">Maps</string>
     <string name="shortcuts_icon_picker_market">Market</string>
     <string name="shortcuts_icon_picker_movie">Movies</string>
     <string name="shortcuts_icon_picker_music">Music</string>
     <string name="shortcuts_icon_picker_nav">Navigation</string>
-    <string name="shortcuts_icon_picker_phone">Phone</string>
+    <string name="shortcuts_icon_picker_phone">Telefon</string>
     <string name="shortcuts_icon_picker_package">Package</string>
     <string name="shortcuts_icon_picker_pinterest">Pinterest</string>
     <string name="shortcuts_icon_picker_play">Play</string>
     <string name="shortcuts_icon_picker_pocket">Pocket</string>
-    <string name="shortcuts_icon_picker_quicksettings">Quick Settings</string>
+    <string name="shortcuts_icon_picker_quicksettings">Schnelleinstellungen</string>
     <string name="shortcuts_icon_picker_rss">RSS Feed</string>
     <string name="shortcuts_icon_picker_sdcard">SDCard</string>
-    <string name="shortcuts_icon_picker_search">Search</string>
-    <string name="shortcuts_icon_picker_sms">Messaging</string>
+    <string name="shortcuts_icon_picker_search">Suche</string>
+    <string name="shortcuts_icon_picker_sms">SMS</string>
     <string name="shortcuts_icon_picker_tasks">Tasks</string>
     <string name="shortcuts_icon_picker_terminal">Terminal</string>
     <string name="shortcuts_icon_picker_transit">Transit</string>
@@ -753,17 +753,17 @@
     <string name="airplay">Airplay</string>
     <string name="android">Android</string>
     <string name="badoo">Badoo</string>
-    <string name="battery">Battery</string>
+    <string name="battery">Akku</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="bookmarks">Bookmarks</string>
+    <string name="bookmarks">Lesezeichen</string>
     <string name="browser">Browser</string>
     <string name="browser2">Browser2</string>
-    <string name="calculator">Calculator</string>
-    <string name="calendar">Calendar</string>
-    <string name="calls">Calls</string>
-    <string name="camera">Camera</string>
+    <string name="calculator">Rechner</string>
+    <string name="calendar">Kalender</string>
+    <string name="calls">Anrufe</string>
+    <string name="camera">Kamera</string>
     <string name="chrome">Chrome</string>
-    <string name="clock">Clock</string>
+    <string name="clock">Uhr</string>
     <string name="cnn">Cnn</string>
     <string name="deezer2">Deezer2</string>
     <string name="deezer">Deezer</string>
@@ -856,23 +856,23 @@
     <string name="lockscreen_shorcuts_longpress_title">Shortcuts DoupleTap</string>
     <string name="lockscreen_shorcuts_longpress_summary">Open custom lock screen shortcuts on Double Tap</string>
 
-    <string name="shortcut_action_app">Custom app</string>
+    <string name="shortcut_action_app">Benutzerdefinierte App</string>
     <string name="shortcut_action_home">Home</string>
-    <string name="shortcut_action_back">Back</string>
-    <string name="shortcut_action_menu">Menu</string>
+    <string name="shortcut_action_back">Zurück</string>
+    <string name="shortcut_action_menu">Menü</string>
     <string name="shortcut_action_ime">Open IME Switcher</string>
-    <string name="shortcut_action_power_menu">Power menu</string>
-    <string name="shortcut_action_recent">Recents</string>
-    <string name="shortcut_action_power">Screen Off</string>
-    <string name="shortcut_action_search">Search in app</string>
+    <string name="shortcut_action_power_menu">Power Menü</string>
+    <string name="shortcut_action_recent">Anwendungsverlauf</string>
+    <string name="shortcut_action_power">Bildschirm aus</string>
+    <string name="shortcut_action_search">In-App Suche</string>
     <string name="shortcut_action_ring_vib">Ring/Vib</string>
-    <string name="shortcut_action_ring_silent">Ring/Silent</string>
-    <string name="shortcut_action_ring_vib_silent">Ring/Vib/Silent</string>
-    <string name="shortcut_action_camera">Camera</string>
-    <string name="shortcut_action_media_next">Music - next track</string>
-    <string name="shortcut_action_media_play_pause">Music - play/pause</string>
-    <string name="shortcut_action_media_previous">Music - previous track</string>
-    <string name="shortcut_action_wake_device">Wake up device</string>
+    <string name="shortcut_action_ring_silent">Ring/Stumm</string>
+    <string name="shortcut_action_ring_vib_silent">Ring/Vib/Stumm</string>
+    <string name="shortcut_action_camera">Kamera</string>
+    <string name="shortcut_action_media_next">Musik - nächster Titel</string>
+    <string name="shortcut_action_media_play_pause">Musik - Play/Pause</string>
+    <string name="shortcut_action_media_previous">Musik - voriger Titel</string>
+    <string name="shortcut_action_wake_device">Gerät aufwecken</string>
 
     <string name="shortcut_action_longpress">Longpress:</string>
     <string name="shortcut_action_select_action_longpress">Choose longpress action:</string>
